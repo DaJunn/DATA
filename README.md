@@ -11,6 +11,9 @@ https://archive.ics.uci.edu/ml/datasets/Iris
 ### 3.Cifar-10 
 https://www.cs.toronto.edu/~kriz/cifar.html
 
+High speed download
+http://www.des.ink/search_results.aspx?words=cifar
+
 ### 4.Boston Housing 
 https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html
 
