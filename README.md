@@ -36,7 +36,7 @@ http://archive.ics.uci.edu/ml/datasets/turkiye+student+evaluation
 http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data_Dinov_020108_HeightsWeights
 
 
-Introduction
+# Introduction
 Data science projects offer you a promising way to kick-start your career in this field. Not only do you get to learn data science by applying it, you also get projects to showcase on your CV! Nowadays, recruiters evaluate a candidate’s potential by his/her work and don’t put a lot of emphasis on certifications. It wouldn’t matter if you just tell them how much you know if you have nothing to show them! That’s where most people struggle and miss out.
 
 You might have worked on several problems before, but if you can’t make it presentable & easy-to-explain, how on earth would someone know what you are capable of? That’s where these projects will help you. Think of the time you’ll spend on these projects like your training sessions. The more time you spend practicing, the better you’ll become!
@@ -46,7 +46,7 @@ We’ve made sure to provide you with a taste of a variety of problems from diff
 
 
 Useful Information
-To help you decide where to begin, we’ve divided this list into 3 levels, namely:
+To help you decide where to begin, we’ve divided this list into **3 levels**, namely:
 
 Beginner Level: This level comprises of data sets which are fairly easy to work with, and don’t require complex data science techniques. You can solve them using basic regression or classification algorithms. Also, these data sets have enough open tutorials to get you going. In this list, we have also provided tutorials to help you get started.
 Intermediate Level: This level comprises of data sets which are more challenging in nature. It consists of mid & large data sets which require some serious pattern recognition skills. Also, feature engineering will make a difference here. There is no limit on the use of ML techniques; everything under the sun can be put to use.
@@ -83,7 +83,7 @@ Recommendation Engine Data
 VisualQA Data
  
 
-Beginner Level
+# Beginner Level
 1. Iris Data Set
 iris_dataset_scatterplot-svgThis is probably the most versatile, easy and resourceful dataset in pattern recognition literature. Nothing could be simpler than the Iris dataset to learn classification techniques. If you are totally new to data science, this is your start line. The data has only 150 rows & 4 columns.
 
@@ -162,7 +162,7 @@ Start: Get Data | Tutorial: Get Here
 
  
 
-Intermediate Level
+# Intermediate Level
 1. Black Friday Dataset
 black-fridayThis dataset comprises of sales transactions captured at a retail store. It’s a classic dataset to explore and expand your feature engineering skills and day to day understanding from multiple shopping experiences. This is a regression problem. The dataset has 550,069 rows and 12 columns.
 
@@ -235,7 +235,7 @@ Start: Get Data | Tutorial: Get Here
 
  
 
-Advanced Level
+# Advanced Level
 1. Identify your Digits Dataset
 identify-the-digitsThis dataset allows you to study, analyze and recognize elements in the images. That’s exactly how your camera detects your face, using image recognition! It’s your turn to build and test that technique. It’s a digit recognition problem. This data set has 7,000 images of 28 X 28 size, totalling 31MB.
 
