@@ -3,7 +3,7 @@
 ## level-1
 
 ### 1.Mnist 
-https://github.com/DaJunn/Img.git
+http://yann.lecun.com/exdb/mnist/
 
 ### 2.Iris 
 https://archive.ics.uci.edu/ml/datasets/Iris
